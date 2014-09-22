@@ -11,4 +11,8 @@ affairs in the computing world.
 ## Blog posts
 
 ## Twitter feeds
+* Tony Morris [dibblego](https://twitter.com/dibblego/) Really harshes on Scala. And Clojure. Others.
+
+## Podcasts
+* [Grumpy Old Geeks](http://tunein.com/radio/Grumpy-Old-Geeks-p561624/) Have not listened to this yet but it has grumpy in the name.
 
