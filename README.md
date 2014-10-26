@@ -7,6 +7,7 @@ affairs in the computing world.
 * ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [Ted Nelson's Eulogy for Douglas Engelbart](https://www.youtube.com/watch?v=yMjPqr1s-cg)
 * [Bret Victor The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
+* [Alan Kay: The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o)
 
 ## Blog posts
 
