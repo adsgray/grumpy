@@ -11,6 +11,9 @@ affairs in the computing world.
 * [Paul Phillips: Scala Collections: Why Not?](https://www.youtube.com/watch?v=uiJycy6dFSQ)
 * [Tef: Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
 
+## Papers
+* [Rob Pike (Feb. 2000): Systems Software Research is Irrelevant](http://herpolhode.com/rob/utah2000.pdf)
+
 ## Blog posts
 
 ## Twitter feeds
