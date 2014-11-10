@@ -10,6 +10,7 @@ affairs in the computing world.
 * [Alan Kay: The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o)
 * [Paul Phillips: Scala Collections: Why Not?](https://www.youtube.com/watch?v=uiJycy6dFSQ)
 * [Tef: Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
+* [Richard M. Stallman](https://www.youtube.com/watch?v=uFMMXRoSxnA)
 
 ## Papers
 * [Rob Pike (Feb. 2000): Systems Software Research is Irrelevant](http://herpolhode.com/rob/utah2000.pdf)
