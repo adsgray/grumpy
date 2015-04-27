@@ -16,7 +16,8 @@ affairs in the computing world.
 * [Rob Pike (Feb. 2000): Systems Software Research is Irrelevant](http://herpolhode.com/rob/utah2000.pdf)
 
 ## Blog posts
-* [Everything is Terrible](http://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html)
+* [Large scale server software: Everything is Terrible](http://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html)
+* [DNA store logins (JWZ): Everything is Terrible](http://www.jwz.org/blog/2015/04/dna-store-logins/)
 
 ## Twitter feeds
 * Tony Morris [dibblego](https://twitter.com/dibblego/) Really harshes on Scala. And Clojure. Others.
