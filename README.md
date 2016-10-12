@@ -18,6 +18,7 @@ affairs in the computing world.
 ## Blog posts
 * [Large scale server software: Everything is Terrible](http://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html)
 * [DNA store logins (JWZ): Everything is Terrible](http://www.jwz.org/blog/2015/04/dna-store-logins/)
+* [Fuck You Startup World](https://medium.com/@shemag8/fuck-you-startup-world-ab6cc72fad0e#.f9zidmz6t)
 
 ## Twitter feeds
 * My Twitter List: [grumpy](https://twitter.com/uhAndrew/lists/grumpy)
