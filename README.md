@@ -9,6 +9,7 @@ affairs in the computing world.
 * [Bret Victor The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
 * [Alan Kay: The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o)
 * [Paul Phillips: Scala Collections: Why Not?](https://www.youtube.com/watch?v=uiJycy6dFSQ)
+* [Paul Philips: Pacific Northwest Scala 2013 We're Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg)
 * [Tef: Programming is terrible—Lessons learned from a life wasted.](https://www.youtube.com/watch?v=csyL9EC0S0c)
 * [Richard M. Stallman](https://www.youtube.com/watch?v=uFMMXRoSxnA)
 
